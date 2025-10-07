@@ -9,3 +9,4 @@ Comprehensive Power BI project analyzing ESG data of S&amp;P 500 companies. It p
 The project includes the ESG dataset used for analysis.
 
 - `S&amp;P 500 ESG Risk Ratings.csv`: Raw dataset of S&P 500 companies with ESG risk ratings.
+- `data/ESG Risk Analysis.pbix`: Power BI file containing the connected and cleaned dataset with the initial data model.
